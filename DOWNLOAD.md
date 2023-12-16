@@ -1,6 +1,6 @@
 Dataset **MineralImage5k** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](Set 'HIDE_DATASET=False' to generate download link)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/R/R/RG/Nx3Z71UDLE1Xnc9MFub0nvxFvQfLWI8OkGPPh0uRF13CWEeKDTtx4J3WsuLqMC60gNCOzXohHQBVpZaIolPGfKK0UGLNohg1T97rqqKRJN5Rw4QimY117kwwm1NR.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash

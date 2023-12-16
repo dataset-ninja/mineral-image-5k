@@ -17,7 +17,7 @@ PROJECT_NAME: str = "MineralImage5k"
 PROJECT_NAME_FULL: str = (
     "MineralImage5k: A Benchmark for Zero-Shot Raw Mineral Visual Recognition and Description"
 )
-HIDE_DATASET = True  # set False when 100% sure about repo quality
+HIDE_DATASET = False  # set False when 100% sure about repo quality
 
 ##################################
 # * After uploading to instance ##
