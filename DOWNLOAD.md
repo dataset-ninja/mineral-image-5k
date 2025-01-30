@@ -1,6 +1,6 @@
 Dataset **MineralImage5k** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://www.dropbox.com/scl/fi/59phtuhymi0hotlgin3cc/mineralimage5k-DatasetNinja.tar?rlkey=2kopft7guxvwav186u0x2frej&dl=1)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzMxNTZfTWluZXJhbEltYWdlNWsvbWluZXJhbGltYWdlNWstRGF0YXNldE5pbmphLnRhciIsICJzaWciOiAiSzk3ckYvcG5DejZZaU9QUWZuQ3J2d3lvc2ZtQURpTzFzdDBLdEJSakxGRT0ifQ==)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
